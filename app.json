@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "lc-corporate",
-    "slug": "lc-corporate",
+    "name": "Expense Tracker",
+    "slug": "expense-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "lccorporate",
+    "scheme": "expensetracker",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
